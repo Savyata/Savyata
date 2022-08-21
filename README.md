@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Behaviorally Inc. as an Insights Associate**
 
-- 🌱 I’m currently learning **Machine Learning Algorithms**
+- 🌱 I’m currently learning **Machine Learning Algorithms** and improving my skills on **SQL**
 
 - 📫 How to reach me **rsavyata@gmail.com**
 
