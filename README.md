@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Savyata Regmi</h1>
 <h3 align="center">Lifelong learning with experience in Research and Insights industry. Through my past experiences, I can convert the business problem into data problem and consult organizations in making actionable business decisions. I have a keen interest to contribute to data and analytics field and grow professionally.</h3>
 
-- 🔭 I’m currently working at **Behaviorally Inc. as an Insights Associate**
+- 🔭 I’m currently working at **Behaviorally Inc. as an Insights Analyst**
 
 - 🌱 I’m currently learning **Machine Learning Algorithms** and improving my skills on **SQL**
 
