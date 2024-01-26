@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Savyata Regmi</h1>
-<h3 align="center">Lifelong learner with experience in Research and Insights industry. Through my past experiences, I can convert the business problem into data problem and consult organizations in making actionable business decisions. I have a keen interest to contribute to data and analytics field and grow professionally.</h3>
+<h3 align="center">Lifelong learner with experience in Research and Insights industry. I am deeply passionate about leveraging data science techniques and machine learning algorithms to tackle business challenges. My goal is to apply advanced analytical methods to derive actionable insights and drive strategic decision-making processes.</h3>
 
-- 🔭 I’m currently working at **Designalytics as a Research Data Analyst**
+- 🔭 I’m currently pursuing my Masters degree in **Data Science** at the **University of New Haven**
 
 - 📫 How to reach me **rsavyata@gmail.com**
 
