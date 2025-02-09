@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently pursuing my Masters degree in **Data Science** at the **University of New Haven**
 
-- 📫 How to reach me **rsavyata@gmail.com**
-
 - ⚡ Fun fact **I love nature, hiking, and cooking**
 
 <h3 align="left">Connect with me:</h3>
